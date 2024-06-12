@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi there 
+I am a cyber security analys and have experience in working in many startups as Network engineer and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
 
-<!--
-**HaxorSecInfec/HaxorSecInfec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on PHP, Bash, Python, HTML, And Analys CyberSecurity .
+- 🍔 Leader at 99Syndicate.
+- ⚡ Currently Working at Digicorp.
+- 💬 Read out my blogs on [Exploits and security](https://exploitdbs.blogspot.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+
+### 📫 Reach me at 
+[Telegram](https://t.me/@MrcakilReal)
