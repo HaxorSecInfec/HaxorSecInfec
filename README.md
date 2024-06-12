@@ -12,7 +12,6 @@ I am a cyber security analys and have experience in working in many startups as 
 ### Visitor count
 <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 
-<div align="center">
 ### 📫 Reach me at 
  
 <a href="https://t.me/ntKiL22"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
